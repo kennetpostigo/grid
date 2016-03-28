@@ -1,0 +1,24 @@
+{
+  "name": "gridsystem",
+  "version": "0.1.0",
+  "description": "Bootsraps Grid System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennetpostigo/grid.git"
+  },
+  "keywords": [
+    "Grid",
+    "Bootstrap",
+    "GridSystem"
+  ],
+  "author": "Kennet Postigo <kennetfpostigo@gmail.com> (http://kpostigo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennetpostigo/grid/issues"
+  },
+  "homepage": "https://github.com/kennetpostigo/grid#readme"
+}
